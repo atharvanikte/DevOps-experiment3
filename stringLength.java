@@ -3,5 +3,6 @@ public class stringLength{
 		String str = "AtharvaNikte";
 		System.out.println(str);
 		System.out.println(str.length());
+		System.out.println(str.length()/0);
 	}
 }
